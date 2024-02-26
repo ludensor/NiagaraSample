@@ -2,6 +2,10 @@
 > **설명:** [콜로소](https://coloso.co.kr/products/gamegraphic_ryusungwook)에서 나이아가라를 활용한 FX 제작 입문 샘플 프로젝트입니다.
 >
 > **개발 환경:** UnrealEngine 5.3
+>
+> **리소스 제작 주소**
+> [Normal Map](https://cpetry.github.io/NormalMap-Online/)
+> [Effect Texture Maker](https://mebiusbox.github.io/contents/EffectTextureMaker/)
 
 ### 1. 환경 이펙트
 <img src="https://github.com/ludensor/NiagaraSample/assets/76856672/863d3666-3c97-4e2e-9c77-d7882b3a04a4.gif">

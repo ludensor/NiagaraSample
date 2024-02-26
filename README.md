@@ -3,11 +3,7 @@
 >
 > **개발 환경:** UnrealEngine 5.3
 >
-> **리소스 제작 주소**
-> 
-> [Normal Map](https://cpetry.github.io/NormalMap-Online/)
-> 
-> [Effect Texture Maker](https://mebiusbox.github.io/contents/EffectTextureMaker/)
+> **리소스 제작 주소:** [Normal Map](https://cpetry.github.io/NormalMap-Online/), [Effect Texture Maker](https://mebiusbox.github.io/contents/EffectTextureMaker/)
 
 ### 1. 환경 이펙트
 <img src="https://github.com/ludensor/NiagaraSample/assets/76856672/863d3666-3c97-4e2e-9c77-d7882b3a04a4.gif">
